@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Mark&#39;s Muses</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 10:49:08 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lanari.fi/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dark Matter</title>
+      <link>https://lanari.fi/posts/dark-matter/</link>
+      <pubDate>Tue, 11 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://lanari.fi/posts/dark-matter/</guid>
+      <description>One of the most definitive (and up-to-date) overviews of Dark Matter comes from the Particle Data Group&amp;rsquo;s Review of Particle Physics.
+A web page similar to what I wrote below, but with pictures, is by physicist Tim Linden.
+Do we know Dark Matter exists? For most physicists today the answer is a pretty straightforward &amp;ldquo;yes.&amp;rdquo; In physics there is a general philosophy that we should look for the simplest explanations to what we see in nature, and Dark Matter is the simplest explanation in this case.</description>
+    </item>
     
     <item>
       <title>Meet Lisp</title>

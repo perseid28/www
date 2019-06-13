@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finnishes on Mark&#39;s Muses</title>
+    <link>https://lanari.fi/finnish/</link>
+    <description>Recent content in Finnishes on Mark&#39;s Muses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jun 2019 22:56:18 -0600</lastBuildDate>
+    
+	<atom:link href="https://lanari.fi/finnish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Translator</title>
+      <link>https://lanari.fi/finnish/translator/</link>
+      <pubDate>Wed, 12 Jun 2019 22:56:18 -0600</pubDate>
+      
+      <guid>https://lanari.fi/finnish/translator/</guid>
+      <description>Meet TFinnish, my primitive program for learning Finnish vocabulary.
+Select what sort of words you&amp;rsquo;d like to work on:
+Common words Orthodox words  Submit
+ init()  document.getElementById(&#34;b1&#34;).addEventListener(&#34;keyup&#34;, event = { if (event.key !== &#34;Enter&#34;) return; document.getElementById(&#34;b1&#34;).click(); event.preventDefault(); });  </description>
+    </item>
+    
+  </channel>
+</rss>
