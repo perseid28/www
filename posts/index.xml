@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark&#39;s Muses</title>
+    <link>https://lanari.fi/posts/</link>
+    <description>Recent content in Posts on Mark&#39;s Muses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Feb 2019 10:49:08 -0700</lastBuildDate>
+    
+	<atom:link href="https://lanari.fi/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet Lisp</title>
+      <link>https://lanari.fi/posts/meet-lisp/</link>
+      <pubDate>Sat, 16 Feb 2019 10:49:08 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/meet-lisp/</guid>
+      <description>Lisp is a special language among the giants (Java, C, Python) in that it&amp;rsquo;s a functional language: everything in the language is done by a call to a function. For example,
+(+ 2 3) is how you would add 2 and 3. Of course you can define a function, and this itself involves a call to the function defun
+(defun myfunction (v1 v2) (* v1 v2)) The code above defines a function that takes two variables as input and returns the product of them.</description>
+    </item>
+    
+    <item>
+      <title>Programming: what is passing?</title>
+      <link>https://lanari.fi/posts/passing/</link>
+      <pubDate>Fri, 15 Feb 2019 10:21:19 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/passing/</guid>
+      <description>In Python, so-called primitive types are passed by value.
+&amp;gt;&amp;gt;&amp;gt; x = 5 &amp;gt;&amp;gt;&amp;gt; x 5 &amp;gt;&amp;gt;&amp;gt; y = x &amp;gt;&amp;gt;&amp;gt; y 5 &amp;gt;&amp;gt;&amp;gt; y = 7 &amp;gt;&amp;gt;&amp;gt; y 7 &amp;gt;&amp;gt;&amp;gt; x 5  Other types are passed by reference. This means that the memory location of an object is passed, and modifications (even to a different variable name that&amp;rsquo;s pointing to the same location) affect that one object.</description>
+    </item>
+    
+    <item>
+      <title>Ode to Agamemnon</title>
+      <link>https://lanari.fi/posts/agamemnon/</link>
+      <pubDate>Sat, 09 Feb 2019 10:56:49 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/agamemnon/</guid>
+      <description>Agamemnon: 2015 &amp;ndash; 2018 Our kitty of 3 years, Agamemnon, passed away yesterday after a sudden onset of acute illness. To those who knew him, Agamemnon was outgoing, obnoxious, curious, and devoted. He will be missed.
+From the time he was adopted back in 2015, Agamemnon had a special attachment to Blaise, who was nearing his first birthday. If Blaise was upset in his crib, Agamemnon would often hop in to try to console him.</description>
+    </item>
+    
+    <item>
+      <title>Google Translator</title>
+      <link>https://lanari.fi/posts/google-translator/</link>
+      <pubDate>Fri, 25 Jan 2019 13:27:36 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/google-translator/</guid>
+      <description>A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. (Gandalf)
+ My brother introduced me to a fun game that uses Google Translate&amp;rsquo;s imperfections and the fact that languages are not 1:1 entities to its advantage. You can enter a well-known phrase in Google Translate, which you translate into another language, and then back into English. Some of the results are quite close, and some are very funny.</description>
+    </item>
+    
+    <item>
+      <title>Orthodox Books</title>
+      <link>https://lanari.fi/posts/orthodox-books/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lanari.fi/posts/orthodox-books/</guid>
+      <description>Here&amp;rsquo;s a listing of books I&amp;rsquo;ve read concerning some aspect of the Orthodox Church. This list will be added to, and modified, as needed.
+Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford University Press, 2005.
+Henry Chadwick was a recognized authority on the history of the early Church. He was an Anglican, which probably lends some author neutrality to this study of the origins and causes of the division between the East and West.</description>
+    </item>
+    
+    <item>
+      <title>Spiritual Books</title>
+      <link>https://lanari.fi/posts/spirituality-books/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lanari.fi/posts/spirituality-books/</guid>
+      <description>Similar to Orthodox Books, this is a listing of spiritual books that I have come across and found useful. This list will be added to or modified as needed.
+Bloom, Anthony. Beginning to Pray. Paulist Press, 1970.
+Described on the back cover as a &amp;ldquo;modern spiritual classic,&amp;rdquo; Archbishop Anthony&amp;rsquo;s book describes prayer from a simple and honest perspective. Bloom has a refreshing approach to common spiritual obstacles, opting for stories from personal experience and unique comparisons rather than repeating some well-known Church teaching.</description>
+    </item>
+    
+    <item>
+      <title>What Makes a Good Book?</title>
+      <link>https://lanari.fi/posts/what-makes-good-book/</link>
+      <pubDate>Wed, 19 Dec 2018 09:40:25 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/what-makes-good-book/</guid>
+      <description>Go to Barnes and Noble (or if you&amp;rsquo;re lazy, Amazon) and for any given topic you&amp;rsquo;ll find so many books with intriguing titles and enticing cover art. Which one to choose?
+Unfortunately, many of the bestseller books in any given category are written, not by experts in the field, but by someone with strong opinions and an engaging writing style. Here&amp;rsquo;s an example, thankfully not on any bestseller list I&amp;rsquo;m aware of, but popular enough that it was assigned reading in a men&amp;rsquo;s group at my dad&amp;rsquo;s church.</description>
+    </item>
+    
+    <item>
+      <title>Uusi Testamentti</title>
+      <link>https://lanari.fi/posts/uusi-testamenti/</link>
+      <pubDate>Sat, 15 Dec 2018 19:52:32 -0700</pubDate>
+      
+      <guid>https://lanari.fi/posts/uusi-testamenti/</guid>
+      <description>One of the things that really helped my Latin along was reading the Bible in Latin. My college Latin professor always emphasized that one of the best ways to gain fluency in a language was to stop compulsively checking every word in a dictionary, and working things out through context. I am reasonably familiar with the Gospels, and these have the added simplicity of being primarily written in the third person indicative.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Words on Mark&#39;s Muses</title>
+    <link>https://lanari.fi/words/</link>
+    <description>Recent content in Words on Mark&#39;s Muses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2019 18:59:59 -0600</lastBuildDate>
+    
+	<atom:link href="https://lanari.fi/words/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olla</title>
+      <link>https://lanari.fi/words/olla/</link>
+      <pubDate>Sun, 17 Mar 2019 18:59:59 -0600</pubDate>
+      
+      <guid>https://lanari.fi/words/olla/</guid>
+      <description> Definition Verb:
+ To be. To have (always uses the third person singular on).  Usage </description>
+    </item>
+    
+    <item>
+      <title>Seuraava</title>
+      <link>https://lanari.fi/words/seuraava/</link>
+      <pubDate>Sun, 17 Mar 2019 18:35:23 -0600</pubDate>
+      
+      <guid>https://lanari.fi/words/seuraava/</guid>
+      <description>Definition Adjective: next, following
+Usage seuraava/na (essive) Finnish Bible Verse</description>
+    </item>
+    
+  </channel>
+</rss>
